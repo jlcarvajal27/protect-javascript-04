@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "sebastian urquijo ",
+      "email": "Jwjbbxj@benfiu.com",
+      "telefono": "3933838393902",
+      "empresa": "neur",
+      "id": 1
+    },
+    {
+      "nombre": "vladimir castañeda ",
+      "email": "fernandojoseropero@gmail.com",
+      "telefono": "30182737381",
+      "empresa": "neuro Fit ",
+      "id": 2
+    }
+  ]
+}
